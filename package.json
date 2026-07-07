@@ -1,0 +1,30 @@
+{
+  "name": "bratislavabike-quiz-app",
+  "version": "0.39.4",
+  "description": "Backend + integrated multilingual frontend for Bratislava Bike live quiz app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "migrate": "node src/db/migrate.js",
+    "create-admin": "node scripts/create-admin.js",
+    "build:frontend": "cd frontend && npm ci && npm run build",
+    "build": "npm run build:frontend"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-pg-simple": "^9.0.1",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "helmet": "^8.0.0",
+    "multer": "^2.1.1",
+    "music-metadata": "^7.14.0",
+    "pg": "^8.13.1",
+    "xlsx": "^0.18.5"
+  },
+  "private": true,
+  "license": "UNLICENSED"
+}

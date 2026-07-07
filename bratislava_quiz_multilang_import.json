@@ -1,0 +1,700 @@
+{
+  "quiz": {
+    "translations": {
+      "sk": {
+        "title": "Bratislava",
+        "description": "Všeobecný kvíz o Bratislave"
+      },
+      "en": {
+        "title": "Bratislava",
+        "description": "General quiz about Bratislava"
+      },
+      "de": {
+        "title": "Bratislava",
+        "description": "Allgemeines Quiz über Bratislava"
+      }
+    }
+  },
+  "questions": [
+    {
+      "orderIndex": 1,
+      "points": 2,
+      "correctIndex": 2,
+      "translations": {
+        "sk": {
+          "prompt": "Čím je Dunaj, ktorý preteká Bratislavou, v Európe výnimočný?",
+          "options": [
+            "Je to najdlhšia rieka Európy",
+            "Začína aj končí v hlavnom meste",
+            "Preteká cez viac hlavných miest než ktorákoľvek iná európska rieka",
+            "Je to jediná európska rieka tečúca zo západu na východ"
+          ]
+        },
+        "en": {
+          "prompt": "What makes the Danube, which flows through Bratislava, unique in Europe?",
+          "options": [
+            "It is the longest river in Europe",
+            "It begins and ends in a capital city",
+            "It flows through more capital cities than any other European river",
+            "It is the only European river flowing from west to east"
+          ]
+        },
+        "de": {
+          "prompt": "Wodurch ist die Donau, die durch Bratislava fließt, in Europa besonders?",
+          "options": [
+            "Sie ist der längste Fluss Europas",
+            "Sie beginnt und endet in einer Hauptstadt",
+            "Sie fließt durch mehr Hauptstädte als jeder andere europäische Fluss",
+            "Sie ist der einzige europäische Fluss, der von Westen nach Osten fließt"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 2,
+      "points": 2,
+      "correctIndex": 1,
+      "translations": {
+        "sk": {
+          "prompt": "Čím je Bratislavský hrad preslávený okrem toho, že je symbolom mesta?",
+          "options": [
+            "Tým, že bol postavený na umelom ostrove",
+            "Tým, že z jeho areálu vidno pri dobrom počasí časti troch štátov",
+            "Tým, že je najstarším hradom v Európe",
+            "Tým, že v ňom dodnes býva prezident"
+          ]
+        },
+        "en": {
+          "prompt": "What is Bratislava Castle famous for, besides being a symbol of the city?",
+          "options": [
+            "It was built on an artificial island",
+            "On a clear day, you can see parts of three countries from its grounds",
+            "It is the oldest castle in Europe",
+            "The president still lives there today"
+          ]
+        },
+        "de": {
+          "prompt": "Wofür ist die Burg Bratislava berühmt, außer dass sie ein Symbol der Stadt ist?",
+          "options": [
+            "Sie wurde auf einer künstlichen Insel gebaut",
+            "Von ihrem Gelände aus kann man bei gutem Wetter Teile von drei Staaten sehen",
+            "Sie ist die älteste Burg Europas",
+            "Der Präsident wohnt dort bis heute"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 3,
+      "points": 2,
+      "correctIndex": 0,
+      "translations": {
+        "sk": {
+          "prompt": "Čím bola Bratislava historicky preslávená v období Uhorska?",
+          "options": [
+            "Bola korunovačným mestom uhorských panovníkov",
+            "Bola sídlom pápeža",
+            "Bola prvým mestom v Európe s električkou",
+            "Bola hlavným prístavom Jadranu"
+          ]
+        },
+        "en": {
+          "prompt": "What was Bratislava historically famous for during the Kingdom of Hungary?",
+          "options": [
+            "It was the coronation city of Hungarian rulers",
+            "It was the seat of the Pope",
+            "It was the first city in Europe with trams",
+            "It was the main port of the Adriatic"
+          ]
+        },
+        "de": {
+          "prompt": "Wofür war Bratislava historisch in der Zeit des Königreichs Ungarn bekannt?",
+          "options": [
+            "Sie war die Krönungsstadt der ungarischen Herrscher",
+            "Sie war der Sitz des Papstes",
+            "Sie war die erste Stadt Europas mit Straßenbahnen",
+            "Sie war der wichtigste Hafen der Adria"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 4,
+      "points": 2,
+      "correctIndex": 0,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorá slávna bratislavská socha vykúka z kanála?",
+          "options": [
+            "Čumil",
+            "Schöne Náci",
+            "Napoleonov vojak",
+            "Roland"
+          ]
+        },
+        "en": {
+          "prompt": "Which famous Bratislava statue peeks out of a manhole?",
+          "options": [
+            "Cumil",
+            "Schöne Náci",
+            "Napoleon’s Soldier",
+            "Roland"
+          ]
+        },
+        "de": {
+          "prompt": "Welche berühmte Statue in Bratislava schaut aus einem Kanaldeckel heraus?",
+          "options": [
+            "Cumil",
+            "Schöne Náci",
+            "Napoleonsoldat",
+            "Roland"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 5,
+      "points": 2,
+      "correctIndex": 0,
+      "translations": {
+        "sk": {
+          "prompt": "Čím je vyhliadka UFO na Moste SNP najviac preslávená?",
+          "options": [
+            "Patrí medzi najvýraznejšie futuristické dominanty mesta",
+            "Je to najstaršia stavba v Bratislave",
+            "Je to jediný most v Európe bez pilierov",
+            "Bola postavená ako observatórium pre astronautov"
+          ]
+        },
+        "en": {
+          "prompt": "What is the UFO observation deck on SNP Bridge best known for?",
+          "options": [
+            "It is one of the city’s most striking futuristic landmarks",
+            "It is the oldest structure in Bratislava",
+            "It is the only bridge in Europe without pillars",
+            "It was built as an observatory for astronauts"
+          ]
+        },
+        "de": {
+          "prompt": "Wofür ist die UFO-Aussichtsplattform auf der SNP-Brücke am bekanntesten?",
+          "options": [
+            "Sie gehört zu den auffälligsten futuristischen Wahrzeichen der Stadt",
+            "Sie ist das älteste Bauwerk in Bratislava",
+            "Sie ist die einzige Brücke Europas ohne Pfeiler",
+            "Sie wurde als Observatorium für Astronauten gebaut"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 6,
+      "points": 2,
+      "correctIndex": 3,
+      "translations": {
+        "sk": {
+          "prompt": "Čím je poloha Bratislavy medzi európskymi hlavnými mestami výnimočná?",
+          "options": [
+            "Je jediným hlavným mestom bez letiska",
+            "Má najväčší počet obyvateľov spomedzi susedných metropol",
+            "Je to najsevernejšie hlavné mesto na Dunaji",
+            "Leží najbližšie k inému hlavnému mestu — k Viedni"
+          ]
+        },
+        "en": {
+          "prompt": "What makes Bratislava’s location unique among European capitals?",
+          "options": [
+            "It is the only capital city without an airport",
+            "It has the largest population among neighbouring capitals",
+            "It is the northernmost capital on the Danube",
+            "It lies closest to another capital city — Vienna"
+          ]
+        },
+        "de": {
+          "prompt": "Was macht die Lage von Bratislava unter den europäischen Hauptstädten besonders?",
+          "options": [
+            "Sie ist die einzige Hauptstadt ohne Flughafen",
+            "Sie hat die größte Bevölkerung unter den benachbarten Hauptstädten",
+            "Sie ist die nördlichste Hauptstadt an der Donau",
+            "Sie liegt am nächsten an einer anderen Hauptstadt - Wien"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 7,
+      "points": 2,
+      "correctIndex": 1,
+      "translations": {
+        "sk": {
+          "prompt": "Čím je Modrý kostolík pre návštevníkov najzaujímavejší?",
+          "options": [
+            "Tým, že je celý postavený z dreva",
+            "Tým, že patrí medzi najvýraznejšie secesné stavby v meste",
+            "Tým, že stojí priamo na hrade",
+            "Tým, že je najväčším kostolom na Slovensku"
+          ]
+        },
+        "en": {
+          "prompt": "What makes the Blue Church especially interesting to visitors?",
+          "options": [
+            "It is built entirely of wood",
+            "It is one of the city’s most distinctive Art Nouveau buildings",
+            "It stands directly on the castle hill",
+            "It is the largest church in Slovakia"
+          ]
+        },
+        "de": {
+          "prompt": "Was macht die Blaue Kirche für Besucher besonders interessant?",
+          "options": [
+            "Sie ist vollständig aus Holz gebaut",
+            "Sie gehört zu den markantesten Jugendstilbauten der Stadt",
+            "Sie steht direkt auf dem Burgberg",
+            "Sie ist die größte Kirche der Slowakei"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 8,
+      "points": 2,
+      "correctIndex": 1,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorá mestská časť Bratislavy je najviac známa veľkým sídliskom?",
+          "options": [
+            "Devín",
+            "Petržalka",
+            "Staré Mesto",
+            "Rača"
+          ]
+        },
+        "en": {
+          "prompt": "Which district of Bratislava is best known for its large housing estate?",
+          "options": [
+            "Devin",
+            "Petrzalka",
+            "Old Town",
+            "Raca"
+          ]
+        },
+        "de": {
+          "prompt": "Welcher Stadtteil von Bratislava ist am bekanntesten für seine große Plattenbausiedlung?",
+          "options": [
+            "Devín",
+            "Petržalka",
+            "Altstadt",
+            "Rača"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 9,
+      "points": 2,
+      "correctIndex": 2,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorá historická stavba sa nachádza na sútoku Dunaja a Moravy?",
+          "options": [
+            "Slavín",
+            "Michalská brána",
+            "Devínsky hrad",
+            "Bratislavský hrad"
+          ]
+        },
+        "en": {
+          "prompt": "Which historic landmark stands at the confluence of the Danube and Morava rivers?",
+          "options": [
+            "Slavin",
+            "Michael’s Gate",
+            "Devin Castle",
+            "Bratislava Castle"
+          ]
+        },
+        "de": {
+          "prompt": "Welche historische Sehenswürdigkeit steht am Zusammenfluss von Donau und March?",
+          "options": [
+            "Slavín",
+            "Michaelertor",
+            "Burg Devín",
+            "Burg Bratislava"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 10,
+      "points": 3,
+      "correctIndex": 3,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorá brána je jedinou zachovanou mestskou bránou v Bratislave?",
+          "options": [
+            "Dunajská brána",
+            "Laurinská brána",
+            "Viedenská brána",
+            "Michalská brána"
+          ]
+        },
+        "en": {
+          "prompt": "Which gate is the only preserved city gate in Bratislava?",
+          "options": [
+            "Danube Gate",
+            "Laurinska Gate",
+            "Vienna Gate",
+            "Michael’s Gate"
+          ]
+        },
+        "de": {
+          "prompt": "Welches Tor ist das einzige erhaltene Stadttor von Bratislava?",
+          "options": [
+            "Donautor",
+            "Laurenzer Tor",
+            "Wiener Tor",
+            "Michaelertor"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 11,
+      "points": 2,
+      "correctIndex": 2,
+      "translations": {
+        "sk": {
+          "prompt": "Ktoré jedlo je tradične spojené so Slovenskom?",
+          "options": [
+            "Paella",
+            "Sushi",
+            "Bryndzové halušky",
+            "Lasagne"
+          ]
+        },
+        "en": {
+          "prompt": "Which dish is traditionally associated with Slovakia?",
+          "options": [
+            "Paella",
+            "Sushi",
+            "Bryndzové halušky",
+            "Lasagne"
+          ]
+        },
+        "de": {
+          "prompt": "Welches Gericht wird traditionell mit der Slowakei verbunden?",
+          "options": [
+            "Paella",
+            "Sushi",
+            "Bryndzové halušky",
+            "Lasagne"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 12,
+      "points": 2,
+      "correctIndex": 0,
+      "translations": {
+        "sk": {
+          "prompt": "Čím je poloha Slovenska zaujímavá pre návštevníkov Bratislavy?",
+          "options": [
+            "Bratislava leží veľmi blízko rakúskych aj maďarských hraníc",
+            "Má morské pobrežie len hodinu od mesta",
+            "Je to jediná krajina v EÚ bez susedov",
+            "Zo Slovenska vedie tunel do Chorvátska"
+          ]
+        },
+        "en": {
+          "prompt": "What makes Slovakia’s location interesting for visitors to Bratislava?",
+          "options": [
+            "Bratislava lies very close to both Austria and Hungary",
+            "It has a seacoast just one hour from the city",
+            "It is the only EU country without neighbours",
+            "There is a tunnel from Slovakia to Croatia"
+          ]
+        },
+        "de": {
+          "prompt": "Was macht die Lage der Slowakei für Besucher von Bratislava interessant?",
+          "options": [
+            "Bratislava liegt sehr nah an Österreich und Ungarn",
+            "Das Meer ist nur eine Stunde von der Stadt entfernt",
+            "Es ist das einzige EU-Land ohne Nachbarn",
+            "Es gibt einen Tunnel von der Slowakei nach Kroatien"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 13,
+      "points": 2,
+      "correctIndex": 2,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorá socha v Bratislave zobrazuje elegantného pána s klobúkom?",
+          "options": [
+            "Hans Christian Andersen",
+            "Napoleonov vojak",
+            "Schöne Náci",
+            "Čumil"
+          ]
+        },
+        "en": {
+          "prompt": "Which statue in Bratislava depicts an elegant gentleman with a hat?",
+          "options": [
+            "Hans Christian Andersen",
+            "Napoleon’s Soldier",
+            "Schöne Náci",
+            "Cumil"
+          ]
+        },
+        "de": {
+          "prompt": "Welche Statue in Bratislava stellt einen eleganten Herrn mit Hut dar?",
+          "options": [
+            "Hans Christian Andersen",
+            "Napoleonsoldat",
+            "Schöne Náci",
+            "Cumil"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 14,
+      "points": 2,
+      "correctIndex": 0,
+      "translations": {
+        "sk": {
+          "prompt": "Ako sa volá hlavné námestie v historickom centre?",
+          "options": [
+            "Hlavné námestie",
+            "Primaciálne námestie",
+            "Námestie SNP",
+            "Hviezdoslavovo námestie"
+          ]
+        },
+        "en": {
+          "prompt": "What is the name of the main square in the historic centre?",
+          "options": [
+            "Main Square",
+            "Primate’s Square",
+            "SNP Square",
+            "Hviezdoslav Square"
+          ]
+        },
+        "de": {
+          "prompt": "Wie heißt der Hauptplatz im historischen Zentrum?",
+          "options": [
+            "Hauptplatz",
+            "Primatialplatz",
+            "SNP-Platz",
+            "Hviezdoslav-Platz"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 15,
+      "points": 2,
+      "correctIndex": 1,
+      "translations": {
+        "sk": {
+          "prompt": "Čo najlepšie vystihuje charakter Bratislavy ako mesta?",
+          "options": [
+            "Mesto bez historického centra",
+            "Mesto, kde sa stretáva hrad, rieka, staré mesto aj moderná architektúra",
+            "Čisto priemyselné mesto bez turizmu",
+            "Prímorské mesto s plážami"
+          ]
+        },
+        "en": {
+          "prompt": "Which description best captures the character of Bratislava as a city?",
+          "options": [
+            "A city without a historic centre",
+            "A city where a castle, a river, an old town and modern architecture all meet",
+            "A purely industrial city with no tourism",
+            "A seaside city with beaches"
+          ]
+        },
+        "de": {
+          "prompt": "Welche Beschreibung trifft den Charakter von Bratislava als Stadt am besten?",
+          "options": [
+            "Eine Stadt ohne historisches Zentrum",
+            "Eine Stadt, in der Burg, Fluss, Altstadt und moderne Architektur zusammenkommen",
+            "Eine rein industrielle Stadt ohne Tourismus",
+            "Eine Küstenstadt mit Stränden"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 16,
+      "points": 2,
+      "correctIndex": 1,
+      "translations": {
+        "sk": {
+          "prompt": "V ktorom kostole boli korunovaní uhorskí panovníci?",
+          "options": [
+            "Františkánsky kostol",
+            "Dóm sv. Martina",
+            "Kostol Klarisiek",
+            "Modrý kostolík"
+          ]
+        },
+        "en": {
+          "prompt": "In which church were Hungarian rulers crowned?",
+          "options": [
+            "Franciscan Church",
+            "St. Martin’s Cathedral",
+            "Church of the Poor Clares",
+            "Blue Church"
+          ]
+        },
+        "de": {
+          "prompt": "In welcher Kirche wurden die ungarischen Herrscher gekrönt?",
+          "options": [
+            "Franziskanerkirche",
+            "Martinsdom",
+            "Klarissenkirche",
+            "Blaue Kirche"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 17,
+      "points": 1,
+      "correctIndex": 2,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorý dopravný prostriedok je dnes veľmi typický pre turistické objavovanie Bratislavy?",
+          "options": [
+            "Safari jeep",
+            "Ťava",
+            "Bratislava Bike",
+            "Gondola"
+          ]
+        },
+        "en": {
+          "prompt": "Which means of transport is especially typical today for fun tourist exploration in Bratislava?",
+          "options": [
+            "Safari jeep",
+            "Camel",
+            "Bratislava Bike",
+            "Gondola"
+          ]
+        },
+        "de": {
+          "prompt": "Welches Verkehrsmittel ist heute besonders typisch für eine unterhaltsame Stadterkundung in Bratislava?",
+          "options": [
+            "Safari-Jeep",
+            "Kamel",
+            "Bratislava Bike",
+            "Gondel"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 18,
+      "points": 2,
+      "correctIndex": 1,
+      "translations": {
+        "sk": {
+          "prompt": "Čím je Slavín v Bratislave najviac preslávený?",
+          "options": [
+            "Je to bývalá mestská brána",
+            "Je to pamätník a vojenský cintorín venovaný vojakom padlým pri oslobodzovaní mesta",
+            "Je to najstarší park v Bratislave",
+            "Je to bývalý kráľovský palác"
+          ]
+        },
+        "en": {
+          "prompt": "What is Slavín in Bratislava best known for?",
+          "options": [
+            "It is a former city gate",
+            "It is a memorial and military cemetery dedicated to soldiers who fell during the liberation of the city",
+            "It is the oldest park in Bratislava",
+            "It is a former royal palace"
+          ]
+        },
+        "de": {
+          "prompt": "Wofür ist Slavín in Bratislava am bekanntesten?",
+          "options": [
+            "Es ist ein ehemaliges Stadttor",
+            "Es ist ein Denkmal und Soldatenfriedhof für die beim Befreiungskampf um die Stadt gefallenen Soldaten",
+            "Es ist der älteste Park von Bratislava",
+            "Es ist ein ehemaliger Königspalast"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 19,
+      "points": 2,
+      "correctIndex": 2,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorá vyhliadka ponúka jeden z najlepších panoramatických pohľadov na Bratislavu?",
+          "options": [
+            "Letisko",
+            "Hlavná stanica",
+            "UFO",
+            "Autobusová stanica"
+          ]
+        },
+        "en": {
+          "prompt": "Which viewpoint offers one of the best panoramic views of Bratislava?",
+          "options": [
+            "The airport",
+            "The main railway station",
+            "UFO",
+            "The bus station"
+          ]
+        },
+        "de": {
+          "prompt": "Welche Aussicht bietet einen der besten Panoramablicke auf Bratislava?",
+          "options": [
+            "Der Flughafen",
+            "Der Hauptbahnhof",
+            "UFO",
+            "Der Busbahnhof"
+          ]
+        }
+      }
+    },
+    {
+      "orderIndex": 20,
+      "points": 2,
+      "correctIndex": 2,
+      "translations": {
+        "sk": {
+          "prompt": "Ktorá bratislavská socha je asi najväčší magnet na fotku, pri ktorom si ľudia najčastejšie automaticky čupnú?",
+          "options": [
+            "Napoleonov vojak",
+            "Hans Christian Andersen",
+            "Čumil",
+            "Schöne Náci"
+          ]
+        },
+        "en": {
+          "prompt": "Which Bratislava statue is probably the biggest magnet for a photo — the one that makes people automatically crouch down?",
+          "options": [
+            "Napoleon’s Soldier",
+            "Hans Christian Andersen",
+            "Cumil",
+            "Schöne Náci"
+          ]
+        },
+        "de": {
+          "prompt": "Welche Bratislavaer Statue ist wahrscheinlich der größte Magnet für ein Foto - diejenige, bei der die Leute fast automatisch in die Hocke gehen?",
+          "options": [
+            "Napoleonsoldat",
+            "Hans Christian Andersen",
+            "Cumil",
+            "Schöne Náci"
+          ]
+        }
+      }
+    }
+  ]
+}
